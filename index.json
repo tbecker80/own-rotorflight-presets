@@ -131,66 +131,22 @@
   },
   "uniqueValues": {
     "firmware_version": [
-      "4.4",
       "4.5"
     ],
     "category": [
-      "REMAPPING",
       "SETUP"
     ],
     "author": [
-      "Rotorflight Team",
-      "Thorsten",
       "Thorsten B."
     ],
     "keywords": [
-      "align trex 470 470l 470lm",
-      "motorized tail",
-      "motorized tail 2"
+      "align trex 470 470l 470lm"
     ],
     "board_name": [
       "NEXUS_F7"
     ]
   },
   "presets": [
-    {
-      "fullPath": "presets/RDMS/nexus/motorized-tail-2.txt",
-      "hash": "7c6a7c1422869cd7314d0026565c00a8f1db856850a7aa250ba934e13f6dbe44",
-      "title": "Radiomaster Nexus Motorized Tail",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "board_name": [
-        "NEXUS_F7"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "motorized tail 2"
-      ],
-      "author": "Thorsten",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/RDMS/nexus/motorized-tail.txt",
-      "hash": "909b81385d4b44ce495d5cc8f89f495c58d575ad79db2860c61db6c1cb0ce1e1",
-      "title": "Radiomaster Nexus Motorized Tail",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "board_name": [
-        "NEXUS_F7"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "motorized tail"
-      ],
-      "author": "Rotorflight Team",
-      "priority": 0
-    },
     {
       "fullPath": "presets/RDMS/nexus/RTFL_backup_diff_Trex_470LM_20250604_184646.txt",
       "hash": "6635227b31ff27b209ddee223e060df85b527272b6c3dd9e452e6aa43ecea00d",
