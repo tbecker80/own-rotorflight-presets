@@ -148,8 +148,8 @@
   },
   "presets": [
     {
-      "fullPath": "presets/RDMS/nexus/RTFL_backup_diff_Trex_470LM_20250604_184646.txt",
-      "hash": "6635227b31ff27b209ddee223e060df85b527272b6c3dd9e452e6aa43ecea00d",
+      "fullPath": "presets/RDMS/nexus/RTFL_Trex_470LM.txt",
+      "hash": "9477ef5cd4a0c23626f19c15a7e9da828146fa7f5d72cde80b8ae5db32ff6525",
       "title": "Radiomaster Nexus - Align TREX 470 LM",
       "firmware_version": [
         "4.5"
