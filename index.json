@@ -164,8 +164,24 @@
   },
   "presets": [
     {
+      "fullPath": "presets/etocii/setup/2.2/etocii-filters.txt",
+      "hash": "84acafde3f50dea78352a4c0403f566a60ae7d6efba7f9ce4380c1d6f473a096",
+      "title": "etocii's Filters",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "SETUP",
+      "status": "COMMUNITY",
+      "keywords": [
+        "filters"
+      ],
+      "author": "etocii",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
       "fullPath": "presets/FDRC/f722v2.x/f722v2/remapping/ext-volt-to-bec.txt",
-      "hash": "53f2b18828066779f17041e8022cbccc121c1a3dec2bd49da1ae921e3a70e8fd",
+      "hash": "6ba05e58c9e852b3f45ca1fe4b10ebc94d278f41174f7f733e463f7220708da7",
       "title": "FlyDragon F722V2 EXT Voltage -> BEC",
       "firmware_version": [
         "4.4",
@@ -186,7 +202,7 @@
     },
     {
       "fullPath": "presets/FDRC/f722v2.x/f722v2.2/remapping/rpm-port.txt",
-      "hash": "e0a29944f5db9bd6e84a21ccb6ada4c8563832913d5d88658f64bfa9c4810944",
+      "hash": "702c294a8d1ef2799ac2f135ab81ae0d95ad6a9832e7fc247dde6a88fd8a9e6c",
       "title": "FlyDragon F722V2/F722V2.2 RPM Port Selection",
       "firmware_version": [
         "4.4",
@@ -206,7 +222,7 @@
     },
     {
       "fullPath": "presets/FDRC/f722v2.x/f722v2.2/remapping/servo5.txt",
-      "hash": "ea9e39fd8174d3e10b50215b7eb4e73cc496051607df92a2f30782db5cbf7db2",
+      "hash": "04d18d3838d9c416eef82584747cc92ad98220a1dc16e969ef274870baf6c310",
       "title": "FlyDragon F722V2/F722V2.2 Enable Servo 5",
       "firmware_version": [
         "4.4",
@@ -230,7 +246,7 @@
     },
     {
       "fullPath": "presets/RDMS/nexus/motorized-tail.txt",
-      "hash": "ac18a98b3c90f9269be8f6c0e793ee7e185b4b434dc7c3864224acc5a9ae02a9",
+      "hash": "909b81385d4b44ce495d5cc8f89f495c58d575ad79db2860c61db6c1cb0ce1e1",
       "title": "Radiomaster Nexus Motorized Tail",
       "firmware_version": [
         "4.4",
@@ -245,22 +261,6 @@
         "motorized tail"
       ],
       "author": "Rotorflight Team",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/etocii/setup/2.2/etocii-filters.txt",
-      "hash": "70a40bcd5993b96af5332308baccb7aae315e8f317f6715494065901c8773fdd",
-      "title": "etocii's Filters",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "SETUP",
-      "status": "COMMUNITY",
-      "keywords": [
-        "filters"
-      ],
-      "author": "etocii",
-      "force_options_review": true,
       "priority": 0
     }
   ]
