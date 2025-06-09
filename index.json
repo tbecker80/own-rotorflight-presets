@@ -135,13 +135,16 @@
       "4.5"
     ],
     "category": [
-      "REMAPPING"
+      "REMAPPING",
+      "SETUP"
     ],
     "author": [
       "Rotorflight Team",
-      "Thorsten"
+      "Thorsten",
+      "Thorsten B."
     ],
     "keywords": [
+      "align trex 470 470l 470lm",
       "motorized tail",
       "motorized tail 2"
     ],
@@ -186,6 +189,24 @@
         "motorized tail"
       ],
       "author": "Rotorflight Team",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/RDMS/nexus/RTFL_backup_diff_Trex_470LM_20250604_184646.txt",
+      "hash": "6635227b31ff27b209ddee223e060df85b527272b6c3dd9e452e6aa43ecea00d",
+      "title": "Radiomaster Nexus - Align TREX 470 LM",
+      "firmware_version": [
+        "4.5"
+      ],
+      "board_name": [
+        "NEXUS_F7"
+      ],
+      "category": "SETUP",
+      "status": "COMMUNITY",
+      "keywords": [
+        "align trex 470 470l 470lm"
+      ],
+      "author": "Thorsten B.",
       "priority": 0
     }
   ]
