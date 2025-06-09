@@ -318,54 +318,7 @@ set gov_yaw_ff_weight = 40
 
 profile 4
 
-# profile 4
-set pitch_d_gain = 50
-set pitch_o_gain = 40
-set roll_d_gain = 20
-set roll_o_gain = 40
-set yaw_d_gain = 40
-set yaw_cyclic_ff_gain = 0
-set yaw_collective_ff_gain = 30
-set gov_headspeed = 2200
-
 profile 5
-
-# profile 5
-set pitch_p_gain = 100
-set pitch_i_gain = 90
-set pitch_d_gain = 55
-set pitch_f_gain = 130
-set pitch_b_gain = 10
-set pitch_o_gain = 60
-set roll_i_gain = 90
-set roll_d_gain = 20
-set roll_f_gain = 130
-set roll_o_gain = 60
-set yaw_p_gain = 135
-set yaw_i_gain = 170
-set yaw_d_gain = 30
-set yaw_b_gain = 8
-set yaw_f_gain = 8
-set pitch_d_cutoff = 25
-set pitch_b_cutoff = 25
-set pitch_gyro_cutoff = 65
-set roll_d_cutoff = 25
-set roll_b_cutoff = 25
-set roll_gyro_cutoff = 65
-set yaw_d_cutoff = 35
-set yaw_b_cutoff = 35
-set yaw_gyro_cutoff = 200
-set yaw_cw_stop_gain = 145
-set yaw_ccw_stop_gain = 90
-set yaw_cyclic_ff_gain = 0
-set yaw_collective_ff_gain = 30
-set offset_limit = 55,55
-set iterm_relax_cutoff = 15,12,15
-set gov_headspeed = 2700
-set gov_i_gain = 100
-set gov_d_gain = 20
-set gov_f_gain = 70
-set gov_yaw_ff_weight = 30
 
 # restore original profile selection
 profile 0
@@ -420,23 +373,7 @@ set collective_srate = 48
 
 rateprofile 4
 
-# rateprofile 4
-set roll_rc_rate = 19
-set pitch_rc_rate = 19
-set yaw_rc_rate = 19
-set roll_srate = 29
-set pitch_srate = 29
-set yaw_srate = 60
-
 rateprofile 5
-
-# rateprofile 5
-set roll_rc_rate = 19
-set pitch_rc_rate = 19
-set yaw_rc_rate = 19
-set roll_srate = 29
-set pitch_srate = 29
-set yaw_srate = 60
 
 # restore original rateprofile selection
 rateprofile 0
